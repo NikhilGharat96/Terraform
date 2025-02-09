@@ -1,4 +1,4 @@
-Before applying main.tf file you have to made some changes. </br>
+<h2>Before applying main.tf file you have to made some changes. </h2>h2></br>
                         </br>
 --> In terraform.tfvars file enter your access and secret keys.</br>
 --> And if your instance is not creats so that replace ami_id with new one. </br>
